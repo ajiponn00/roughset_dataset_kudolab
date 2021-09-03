@@ -24,3 +24,4 @@
 | gissete_train | 6000 | 5001 |UCI|
 | covtype | 581012 | 55 |UCI|
 | tao-all222 | 178080 | 11 | UCI|
+| shuttle | 58000 | 10 | UCI|
