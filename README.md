@@ -19,7 +19,8 @@
 | letter-recognition | 20000 | 17 |UCI|
 | adult2 | 32561 | 15 |UCI|
 | nomao | 34465 | 119 |UCI|
-| diabetes | 101766 | 50 |UCI|
+| diabetes最初二つの属性はIDだった | 101766 | 48 |UCI|
+| diabetic_data | 101766 | 50 |UCI|
 | ad2 | 3279 | 1559 |UCI|
 | gissete_train | 6000 | 5001 |UCI|
 | covtype | 581012 | 55 |UCI|
