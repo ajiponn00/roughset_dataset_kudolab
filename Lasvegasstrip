@@ -1,0 +1,505 @@
+Number	User country	Nr. reviews	Nr. hotel reviews	Helpful votes	Period of stay	Traveler type	Pool	Gym	Tennis court	Spa	Casino	Free internet	Hotel name	Hotel stars	Nr. rooms	User continent	Member years	Review month	Review weekday	Score
+1	USA	11	4	13	Dec-Feb	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	9	January	Thursday	5
+2	USA	119	21	75	Dec-Feb	Business	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	3	January	Friday	3
+3	USA	36	9	25	Mar-May	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	2	February	Saturday	5
+4	UK	14	7	14	Mar-May	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Europe	6	February	Friday	4
+5	Canada	5	5	2	Mar-May	Solo	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	7	March	Tuesday	4
+6	Canada	31	8	27	Mar-May	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	2	March	Tuesday	3
+7	UK	45	12	46	Mar-May	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Europe	4	April	Friday	4
+8	USA	2	1	4	Mar-May	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	0	April	Tuesday	4
+9	India	24	3	8	Mar-May	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Asia	3	May	Saturday	4
+10	Canada	12	7	11	Mar-May	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	5	May	Tuesday	3
+11	USA	102	24	58	Jun-Aug	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	9	June	Friday	2
+12	Australia	20	9	24	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Oceania	4	June	Saturday	3
+13	USA	7	6	9	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	1	July	Wednesday	2
+14	USA	22	5	13	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	1	July	Thursday	3
+15	UK	3	3	0	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Europe	1	August	Sunday	3
+16	New Zeland	146	17	33	Jun-Aug	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Oceania	2	August	Saturday	4
+17	Canada	8	8	9	Sep-Nov	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	4	September	Wednesday	1
+18	USA	9	3	1	Sep-Nov	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	2	September	Saturday	4
+19	Canada	41	9	19	Sep-Nov	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	2	October	Tuesday	3
+20	USA	8	7	26	Sep-Nov	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	10	October	Monday	2
+21	UK	10	5	2	Sep-Nov	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Europe	7	November	Saturday	4
+22	New Zeland	4	3	3	Sep-Nov	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Oceania	3	November	Monday	1
+23	UK	18	7	19	Dec-Feb	Families	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	Europe	0	December	Saturday	4
+24	USA	4	4	3	Dec-Feb	Couples	NO	YES	NO	NO	YES	YES	Circus Circus Hotel & Casino Las Vegas	3	3773	North America	5	December	Sunday	2
+25	Ireland	29	11	15	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	3	January	Monday	4
+26	USA	114	42	52	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	11	January	Saturday	4
+27	Canada	30	12	17	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	8	February	Friday	5
+28	UK	87	18	36	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	3	February	Thursday	3
+29	USA	26	10	28	Mar-May	Solo	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	1	March	Wednesday	5
+30	Ireland	8	7	9	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	8	March	Wednesday	5
+31	Canada	11	8	13	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	7	April	Friday	5
+32	Australia	4	3	2	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Oceania	0	April	Friday	3
+33	Canada	56	8	7	Mar-May	Solo	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	1	May	Tuesday	3
+34	Egypt	13	12	8	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Africa	4	May	Wednesday	3
+35	Australia	58	9	15	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Oceania	0	June	Saturday	4
+36	Finland	20	7	4	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	6	June	Saturday	3
+37	USA	70	27	24	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	6	July	Friday	4
+38	Kenya	6	3	7	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Africa	1	July	Thursday	4
+39	USA	290	263	299	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	10	August	Monday	4
+40	USA	24	6	9	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	2	August	Wednesday	2
+41	Jordan	29	8	21	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	2	September	Wednesday	3
+42	Canada	20	5	59	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	8	September	Saturday	3
+43	Netherlands	3	3	3	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	4	October	Saturday	3
+44	Ireland	47	6	27	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	5	October	Monday	4
+45	USA	35	8	19	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	North America	6	November	Sunday	4
+46	UK	6	0	4	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	1	November	Sunday	4
+47	UK	74	47	54	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Europe	7	December	Wednesday	4
+48	Syria	34	8	30	Dec-Feb	Solo	YES	YES	NO	YES	YES	YES	Excalibur Hotel & Casino	3	3981	Asia	4	December	Tuesday	3
+49	UK	576	43	340	Dec-Feb	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	3	January	Monday	3
+50	USA	20	8	11	Dec-Feb	Solo	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	5	January	Saturday	4
+51	USA	418	32	132	Dec-Feb	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	3	February	Tuesday	2
+52	USA	73	13	22	Dec-Feb	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	2	February	Tuesday	4
+53	Canada	30	10	32	Mar-May	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	2	March	Wednesday	3
+54	USA	63	15	17	Mar-May	Business	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	2	March	Tuesday	4
+55	Scotland	24	10	13	Mar-May	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	5	April	Wednesday	5
+56	South Africa	54	18	16	Mar-May	Business	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Africa	5	April	Tuesday	2
+57	Australia	20	7	11	Mar-May	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Oceania	2	May	Friday	4
+58	UK	41	7	24	Mar-May	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	3	May	Monday	4
+59	Ireland	7	5	7	Jun-Aug	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	9	June	Tuesday	4
+60	Canada	13	9	15	Jun-Aug	Friends	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	1	June	Monday	4
+61	UK	10	5	4	Jun-Aug	Families	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	1	July	Friday	4
+62	New Zeland	9	6	19	Jun-Aug	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Oceania	7	July	Wednesday	3
+63	Swiss	36	19	36	Jun-Aug	Solo	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	5	August	Thursday	2
+64	UK	33	12	19	Jun-Aug	Families	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	5	August	Saturday	3
+65	United Arab Emirates	156	126	142	Sep-Nov	Friends	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Asia	8	September	Friday	3
+66	Ireland	19	17	16	Sep-Nov	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	5	September	Wednesday	4
+67	USA	23	17	11	Sep-Nov	Families	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	1	October	Friday	3
+68	USA	13	3	3	Sep-Nov	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	1	October	Sunday	2
+69	Hungary	8	5	8	Sep-Nov	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	8	November	Friday	4
+70	China	1	0	2	Sep-Nov	Business	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Asia	0	November	Wednesday	1
+71	Greece	21	18	6	Dec-Feb	Business	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	Europe	0	December	Sunday	2
+72	Mexico	56	14	36	Dec-Feb	Couples	YES	YES	NO	YES	YES	NO	Monte Carlo Resort&Casino	4	3003	North America	3	December	Monday	5
+73	Croatia	29	11	14	Dec-Feb	Business	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Europe	6	January	Sunday	3
+74	Australia	11	5	8	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Oceania	1	January	Thursday	4
+75	Canada	19	12	167	Dec-Feb	Friends	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	9	February	Monday	4
+76	USA	17	9	16	Dec-Feb	Solo	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	-1806	February	Monday	5
+77	USA	43	8	20	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	1	March	Friday	4
+78	Canada	12	8	3	Mar-May	Friends	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	2	March	Saturday	4
+79	USA	15	14	7	Mar-May	Friends	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	9	April	Tuesday	4
+80	Australia	16	13	16	Mar-May	Families	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Oceania	6	April	Wednesday	3
+81	India	12	4	25	Mar-May	Families	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Asia	1	May	Friday	3
+82	Germany	10	0	5	Mar-May	Friends	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Europe	3	May	Sunday	4
+83	USA	27	17	16	Jun-Aug	Families	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	6	June	Thursday	3
+84	Canada	6	5	5	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	2	June	Tuesday	4
+85	Australia	21	20	14	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Oceania	3	July	Wednesday	5
+86	Malaysia	43	14	27	Jun-Aug	Solo	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Asia	5	July	Thursday	4
+87	Mexico	97	31	37	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	South America	8	August	Saturday	4
+88	UK	7	3	4	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Europe	5	August	Friday	4
+89	UK	11	9	6	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Europe	0	September	Friday	3
+90	USA	78	11	30	Sep-Nov	Business	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	2	September	Tuesday	4
+91	Australia	12	7	4	Sep-Nov	Families	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Oceania	5	October	Monday	5
+92	USA	27	11	5	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	2	October	Monday	3
+93	Thailand	4	3	1	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Asia	7	November	Friday	5
+94	Australia	27	9	8	Sep-Nov	Families	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	Oceania	2	November	Friday	4
+95	Canada	12	3	7	Dec-Feb	Friends	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	4	December	Saturday	4
+96	Canada	21	16	48	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Treasure Island- TI Hotel & Casino	4	2884	North America	12	December	Thursday	5
+97	UK	34	17	30	Dec-Feb	Families	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	8	January	Sunday	4
+98	USA	12	6	1	Dec-Feb	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	North America	2	January	Sunday	5
+99	Phillippines	79	39	51	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Asia	5	February	Wednesday	3
+100	Israel	18	10	16	Dec-Feb	Business	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Asia	2	February	Thursday	3
+101	Canada	13	3	8	Mar-May	Business	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	North America	3	March	Wednesday	4
+102	UK	14	4	9	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	1	March	Friday	4
+103	Ireland	19	9	28	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	3	April	Friday	5
+104	India 	88	15	103	Mar-May	Business	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Asia	3	April	Monday	4
+105	New Zeland	8	4	0	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Oceania	1	May	Tuesday	4
+106	Belgium	39	15	31	Mar-May	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	1	May	Sunday	3
+107	UK	130	41	61	Jun-Aug	Business	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	3	June	Tuesday	4
+108	Australia	79	78	105	Jun-Aug	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Oceania	7	June	Wednesday	4
+109	UK	13	10	16	Jun-Aug	Solo	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	10	July	Wednesday	4
+110	UK	18	6	17	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	1	July	Monday	4
+111	New Zeland	8	7	3	Jun-Aug	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Oceania	1	August	Saturday	5
+112	Australia	15	4	6	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Oceania	0	August	Friday	5
+113	Canada	27	0	9	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	North America	0	September	Tuesday	1
+114	Australia	5	3	2	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Oceania	5	September	Wednesday	5
+115	UK	22	6	6	Sep-Nov	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	1	October	Tuesday	5
+116	USA	5	3	11	Sep-Nov	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	North America	1	October	Thursday	2
+117	India	31	8	11	Sep-Nov	Solo	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Asia	1	November	Sunday	4
+118	Netherlands	33	8	8	Sep-Nov	Friends	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	7	November	Saturday	5
+119	UK	10	6	11	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	4	December	Saturday	5
+120	UK	12	3	3	Dec-Feb	Families	YES	YES	YES	YES	YES	YES	Tropicana Las Vegas - A Double Tree by Hilton Hotel	4	1467	Europe	4	December	Thursday	5
+121	USA	50	14	24	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	7	January	Wednesday	5
+122	USA	161	33	85	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	3	January	Friday	4
+123	Puerto Rico	153	38	81	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	10	February	Tuesday	5
+124	Canada	14	3	12	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	2	February	Thursday	5
+125	USA	31	12	10	Mar-May	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	4	March	Friday	5
+126	USA	15	10	29	Mar-May	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	9	March	Friday	3
+127	Canada	5	5	4	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	3	April	Thursday	5
+128	USA	46	4	21	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	2	April	Saturday	4
+129	UK	15	6	39	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	Europe	4	May	Sunday	1
+130	UK	63	27	35	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	Europe	5	May	Wednesday	4
+131	USA	17	15	13	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	2	June	Sunday	4
+132	USA	25	22	36	Jun-Aug	Solo	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	9	June	Tuesday	1
+133	USA	14	8	4	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	1	July	Monday	5
+134	UK	59	56	37	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	Europe	6	July	Tuesday	3
+135	UK	11	10	17	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	Europe	3	August	Friday	5
+136	Canada	54	18	31	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	5	August	Wednesday	4
+137	USA	4	3	4	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	3	September	Monday	5
+138	USA	10	7	7	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	3	September	Tuesday	5
+139	USA	14	6	7	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	11	October	Sunday	5
+140	USA	39	12	16	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	2	October	Thursday	5
+141	Australia	35	24	43	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	Oceania	4	November	Sunday	5
+142	Australia	6	6	9	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	Oceania	0	November	Sunday	3
+143	USA	23	7	2	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	3	December	Friday	4
+144	USA	48	21	67	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Caesars Palace	5	3348	North America	13	December	Sunday	4
+145	Australia	16	9	14	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Oceania	3	January	Thursday	4
+146	Australia	12	6	3	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Oceania	1	January	Thursday	5
+147	Switzerland	36	9	15	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	2	February	Saturday	4
+148	UK	127	40	80	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	8	February	Wednesday	5
+149	USA	12	5	1	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	1	March	Monday	5
+150	USA	17	17	74	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	10	March	Saturday	5
+151	Ireland	23	7	21	Mar-May	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	7	April	Thursday	4
+152	USA	102	17	45	Mar-May	Business	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	2	April	Monday	5
+153	Germany	113	15	55	Mar-May	Families	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	8	May	Thursday	5
+154	USA	30	8	10	Mar-May	Business	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	1	May	Wednesday	2
+155	Germany	24	24	24	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	7	June	Wednesday	2
+156	Ireland	15	5	18	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	3	June	Wednesday	5
+157	USA	6	4	14	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	1	July	Wednesday	1
+158	Australia	3	3	0	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Oceania	7	July	Tuesday	4
+159	Canada	41	10	56	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	4	August	Saturday	5
+160	USA	19	8	56	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	10	August	Sunday	4
+161	UK	18	9	10	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	1	September	Wednesday	5
+162	Norway	6	6	7	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	7	September	Tuesday	5
+163	USA	103	5	98	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	7	October	Monday	5
+164	UK	18	4	16	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Europe	0	October	Friday	5
+165	Egypt	9	7	7	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	Africa	5	November	Wednesday	5
+166	USA	50	19	45	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	0	November	Friday	5
+167	Canada	4	3	8	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	8	December	Tuesday	2
+168	USA	7	3	8	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Cosmopolitan Las Vegas	5	2959	North America	5	December	Sunday	5
+169	Mexico	28	23	31	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	4	January	Friday	3
+170	USA	32	6	11	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	10	January	Friday	5
+171	Canada	4	0	4	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	9	February	Friday	5
+172	USA	37	8	9	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	3	February	Tuesday	4
+173	Canada	10	3	7	Mar-May	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	6	March	Wednesday	5
+174	Canada	36	30	80	Mar-May	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	8	March	Friday	5
+175	USA	31	10	14	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	5	April	Sunday	4
+176	Canada	66	33	60	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	10	April	Saturday	5
+177	France	17	4	8	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Europe	0	May	Saturday	5
+178	UK	57	20	71	Mar-May	Business	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Europe	0	May	Friday	5
+179	USA	42	8	22	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	6	June	Monday	4
+180	USA	28	20	14	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	8	June	Friday	3
+181	Spain	19	8	10	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Europe	3	July	Wednesday	4
+182	USA	20	11	21	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	9	July	Friday	5
+183	UK	75	19	93	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Europe	8	August	Sunday	4
+184	USA	91	16	26	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	3	August	Wednesday	4
+185	UK	52	48	78	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Europe	8	September	Saturday	3
+186	USA	93	4	8	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	2	September	Saturday	5
+187	Canada	9	3	15	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	1	October	Wednesday	5
+188	Australia	5	3	9	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Oceania	2	October	Thursday	5
+189	Singapore	37	7	10	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	Asia	0	November	Sunday	5
+190	Brazil	31	25	35	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	South America	7	November	Sunday	3
+191	USA	6	4	4	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	7	December	Thursday	5
+192	USA	252	55	113	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Palazzo Resort Hotel Casino	5	3025	North America	8	December	Monday	4
+193	USA	164	48	82	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	4	January	Saturday	5
+194	USA	5	3	9	Dec-Feb	Families	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	4	January	Tuesday	5
+195	Canada	7	5	20	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	3	February	Saturday	4
+196	USA	18	11	15	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	7	February	Tuesday	5
+197	USA	20	13	16	Mar-May	Friends	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	6	March	Friday	5
+198	USA	21	5	12	Mar-May	Business	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	8	March	Monday	4
+199	USA	125	35	48	Mar-May	Business	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	4	April	Sunday	5
+200	USA	11	7	10	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	1	April	Monday	4
+201	Singapore	16	10	16	Mar-May	Solo	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	Asia	7	May	Monday	3
+202	UK	19	5	5	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	Europe	3	May	Monday	5
+203	USA	73	27	365	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	6	June	Wednesday	5
+204	USA	5	4	4	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	11	June	Wednesday	5
+205	USA	30	10	17	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	3	July	Monday	5
+206	Canada	7	4	10	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	3	July	Sunday	5
+207	Canada	67	46	99	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	6	August	Sunday	5
+208	Finland	18	13	25	Jun-Aug	Solo	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	Europe	9	August	Saturday	5
+209	Canada	12	7	11	Sep-Nov	Business	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	4	September	Monday	2
+210	Canada	40	12	26	Sep-Nov	Friends	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	7	September	Saturday	5
+211	USA	142	17	31	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	3	October	Monday	4
+212	UK	8	4	16	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	Europe	7	October	Saturday	5
+213	Costa Rica	15	9	3	Sep-Nov	Business	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	2	November	Monday	5
+214	UK	2	18	14	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	Europe	8	November	Wednesday	5
+215	UK	10	6	10	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	Europe	5	December	Tuesday	5
+216	USA	16	13	55	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Wynn Las Vegas	5	2700	North America	9	December	Tuesday	5
+217	UK	21	7	13	Dec-Feb	Solo	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Europe	10	January	Tuesday	5
+218	India	69	58	41	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Asia	5	January	Saturday	5
+219	USA	33	13	8	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	5	February	Wednesday	5
+220	USA	1	0	2	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	0	February	Tuesday	5
+221	USA	49	8	23	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	5	March	Monday	5
+222	USA	775	52	255	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	2	March	Wednesday	3
+223	United Arab Emirates	16	7	6	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Asia	7	April	Monday	4
+224	USA	1	0	1	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	0	April	Wednesday	5
+225	Singapore	19	11	17	Mar-May	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Asia	7	May	Friday	4
+226	Brazil	7	4	8	Mar-May	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	South America	7	May	Sunday	5
+227	USA	38	18	16	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	8	June	Sunday	5
+228	USA	48	14	30	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	9	June	Wednesday	5
+229	Canada	136	20	55	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	3	July	Sunday	5
+230	USA	26	8	1	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	6	July	Monday	4
+231	Iran	3	3	2	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Asia	4	August	Sunday	4
+232	USA	78	17	24	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	5	August	Monday	5
+233	UK	24	18	12	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Europe	0	September	Thursday	5
+234	Egypt	2	0	15	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Africa	1	September	Monday	1
+235	Ireland	4	3	3	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Europe	11	October	Thursday	5
+236	Australia	11	7	17	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Oceania	2	October	Saturday	5
+237	Germany	1	0	1	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Europe	0	November	Wednesday	2
+238	Australia	35	16	17	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	Oceania	2	November	Tuesday	4
+239	USA	110	19	76	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	2	December	Tuesday	4
+240	USA	53	25	24	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Trump International Hotel Las Vegas	5	1282	North America	3	December	Sunday	5
+241	Saudi Arabia	320	45	102	Dec-Feb	Business	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	Asia	6	January	Tuesday	3
+242	USA	2	0	2	Dec-Feb	Business	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	1	January	Saturday	4
+243	USA	26	6	12	Dec-Feb	Families	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	1	February	Sunday	5
+244	USA	4	4	0	Dec-Feb	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	2	February	Monday	5
+245	USA	9	9	6	Mar-May	Solo	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	1	March	Wednesday	2
+246	USA	17	14	70	Mar-May	Friends	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	10	March	Sunday	5
+247	Canada	3	0	1	Mar-May	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	1	April	Tuesday	5
+248	Canada	14	0	4	Mar-May	Families	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	4	April	Tuesday	2
+249	USA	235	111	267	Mar-May	Friends	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	9	May	Friday	5
+250	USA	59	9	21	Mar-May	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	3	May	Monday	5
+251	USA	2	0	2	Jun-Aug	Friends	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	0	June	Wednesday	5
+252	USA	2	0	1	Jun-Aug	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	0	June	Wednesday	5
+253	USA	21	18	53	Jun-Aug	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	11	July	Wednesday	5
+254	USA	4	0	16	Jun-Aug	Friends	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	0	July	Thursday	1
+255	Netherlands	184	52	70	Jun-Aug	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	Europe	3	August	Wednesday	5
+256	UK	262	75	150	Jun-Aug	Families	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	Europe	2	August	Monday	4
+257	USA	69	11	17	Sep-Nov	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	0	September	Sunday	5
+258	Australia	92	12	27	Sep-Nov	Business	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	Oceania	2	September	Saturday	4
+259	USA	131	61	116	Sep-Nov	Families	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	8	October	Thursday	3
+260	Norway	25	10	16	Sep-Nov	Friends	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	Europe	8	October	Tuesday	5
+261	Canada	49	22	53	Sep-Nov	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	5	November	Sunday	3
+262	USA	148	33	55	Sep-Nov	Business	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	3	November	Wednesday	4
+263	Canada	26	7	22	Dec-Feb	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	4	December	Wednesday	4
+264	USA	13	4	1	Dec-Feb	Couples	YES	NO	NO	NO	YES	YES	The Cromwell	4	5188	North America	2	December	Wednesday	4
+265	Thailand	3	3	20	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Asia	5	January	Tuesday	1
+266	USA	46	12	87	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	3	January	Tuesday	5
+267	UK	127	40	81	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	8	February	Thursday	4
+268	USA	15	5	12	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	4	February	Sunday	5
+269	USA	16	14	23	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	7	March	Friday	5
+270	USA	113	38	27	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	1	March	Tuesday	4
+271	UK	7	5	5	Mar-May	Families	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	7	April	Monday	3
+272	Honduras	73	32	99	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	South America	10	April	Thursday	4
+273	USA	35	12	3	Mar-May	Business	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	2	May	Friday	5
+274	UK	139	20	86	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	5	May	Monday	5
+275	UK	28	12	30	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	2	June	Saturday	5
+276	USA	34	8	26	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	4	June	Tuesday	4
+277	USA	4	3	5	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	3	July	Thursday	5
+278	USA	32	11	14	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	3	July	Sunday	5
+279	UK	9	3	4	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	1	August	Thursday	5
+280	USA	333	58	200	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	4	August	Sunday	5
+281	USA	29	11	15	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	6	September	Monday	5
+282	UK	85	43	68	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	5	September	Wednesday	5
+283	USA	12	5	1	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	5	October	Friday	5
+284	UK	34	10	7	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Europe	4	October	Thursday	4
+285	India	13	7	8	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	Asia	5	November	Sunday	5
+286	USA	5	5	14	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	5	November	Sunday	5
+287	USA	169	25	41	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	8	December	Tuesday	5
+288	USA	11	10	6	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Encore at wynn Las Vegas	5	2034	North America	7	December	Tuesday	5
+289	USA	4	3	2	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	6	January	Friday	5
+290	USA	50	39	48	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	10	January	Thursday	2
+291	Mexico	10	3	1	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	4	February	Tuesday	5
+292	Canada	7	4	4	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	1	February	Friday	5
+293	UK	60	7	42	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Europe	8	March	Tuesday	5
+294	Netherlands	92	49	18	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Europe	5	March	Thursday	4
+295	Australia	106	37	58	Mar-May	Business	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Oceania	3	April	Wednesday	4
+296	Canada	7	5	45	Mar-May	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	10	April	Monday	4
+297	Brazil	37	31	38	Mar-May	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	South America	9	May	Friday	5
+298	USA	70	25	19	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	3	May	Friday	1
+299	USA	9	3	4	Jun-Aug	Friends	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	1	June	Monday	5
+300	USA	11	6	7	Jun-Aug	Solo	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	1	June	Monday	5
+301	Finland	39	18	9	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Europe	4	July	Thursday	4
+302	UK	10	0	9	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Europe	1	July	Wednesday	5
+303	USA	78	17	24	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	5	August	Monday	4
+304	UK	48	21	19	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Europe	4	August	Friday	5
+305	Canada	112	34	41	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	7	September	Sunday	5
+306	USA	28	17	14	Sep-Nov	Solo	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	2	September	Wednesday	5
+307	UK	11	3	16	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Europe	2	October	Wednesday	2
+308	USA	9	5	11	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	9	October	Wednesday	4
+309	USA	4	4	1	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	0	November	Wednesday	3
+310	Mexico	22	15	25	Sep-Nov	Families	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	6	November	Monday	4
+311	USA	42	11	36	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	North America	7	December	Monday	5
+312	Australia	20	16	9	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Hilton Grand Vacations on the Boulevard	3	51228	Oceania	7	December	Tuesday	4
+313	Canada	160	34	88	Dec-Feb	Business	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	6	January	Saturday	4
+314	USA	372	78	169	Dec-Feb	Business	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	4	January	Sunday	4
+315	USA	84	18	36	Dec-Feb	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	4	February	Wednesday	5
+316	USA	21	13	20	Dec-Feb	Business	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	5	February	Thursday	5
+317	UK	95	37	55	Mar-May	Friends	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Europe	6	March	Tuesday	4
+318	Germany	118	107	131	Mar-May	Business	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Europe	10	March	Monday	5
+319	Canada	6	0	8	Mar-May	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	10	April	Wednesday	5
+320	USA	60	4	31	Mar-May	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	2	April	Tuesday	4
+321	Australia	275	79	339	Mar-May	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Oceania	7	May	Sunday	4
+322	Canada	46	39	42	Mar-May	Business	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	6	May	Wednesday	4
+323	USA	6	5	6	Jun-Aug	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	4	June	Tuesday	5
+324	Australia	11	0	5	Jun-Aug	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Oceania	0	June	Thursday	5
+325	USA	75	37	48	Jun-Aug	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	6	July	Saturday	5
+326	Denmark	240	76	115	Jun-Aug	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Europe	3	July	Monday	5
+327	Taiwan	20	12	7	Jun-Aug	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Asia	1	August	Wednesday	5
+328	Israel	62	40	25	Jun-Aug	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Asia	5	August	Sunday	5
+329	Hawaii	88	19	58	Sep-Nov	Friends	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	1	September	Wednesday	5
+330	USA	6	3	5	Sep-Nov	Friends	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	0	September	Tuesday	5
+331	Thailand	18	9	8	Sep-Nov	Business	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Asia	7	October	Monday	3
+332	Mexico	159	43	78	Sep-Nov	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	4	October	Wednesday	5
+333	Kuwait	47	23	20	Sep-Nov	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Asia	1	November	Thursday	4
+334	Norway	86	12	46	Sep-Nov	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Europe	5	November	Sunday	4
+335	USA	42	9	13	Dec-Feb	Couples	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	North America	1	December	Tuesday	5
+336	Germany	64	33	23	Dec-Feb	Families	YES	YES	NO	NO	YES	YES	Marriott's Grand Chateau	3	5732	Europe	7	December	Thursday	4
+337	USA	167	71	119	Dec-Feb	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	8	January	Saturday	5
+338	USA	25	5	12	Dec-Feb	Friends	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	8	January	Thursday	5
+339	UK	12	12	6	Dec-Feb	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	Europe	4	February	Friday	3
+340	USA	608	117	319	Dec-Feb	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	5	February	Saturday	5
+341	USA	5	4	3	Mar-May	Friends	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	8	March	Sunday	5
+342	USA	26	17	34	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	7	March	Thursday	5
+343	Brazil	11	5	9	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	South America	7	April	Monday	5
+344	USA	39	10	13	Mar-May	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	3	April	Wednesday	4
+345	India	1	0	3	Mar-May	Families	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	Asia	0	May	Thursday	2
+346	USA	108	20	22	Mar-May	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	5	May	Thursday	3
+347	Malaysia	119	20	46	Jun-Aug	Friends	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	Asia	1	June	Sunday	5
+348	USA	27	15	17	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	6	June	Tuesday	3
+349	Germany	55	55	134	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	Europe	5	July	Wednesday	5
+350	Canada	7	3	7	Jun-Aug	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	3	July	Friday	4
+351	Canada	3	3	2	Jun-Aug	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	0	August	Wednesday	3
+352	USA	11	3	19	Jun-Aug	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	6	August	Monday	4
+353	Australia	27	15	16	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	Oceania	5	September	Sunday	5
+354	USA	13	4	6	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	0	September	Wednesday	5
+355	UK	19	11	14	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	Europe	5	October	Sunday	3
+356	Canada	38	12	17	Sep-Nov	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	7	October	Friday	5
+357	USA	167	71	119	Sep-Nov	Couples	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	8	November	Sunday	4
+358	USA	28	6	9	Sep-Nov	Business	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	3	November	Tuesday	3
+359	Canada	9	8	5	Dec-Feb	Families	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	4	December	Sunday	5
+360	USA	13	4	4	Dec-Feb	Friends	YES	YES	YES	YES	YES	YES	Tuscany Las Vegas Suites & Casino	3	716	North America	5	December	Tuesday	5
+361	USA	65	24	72	Dec-Feb	Business	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	6	January	Monday	3
+362	USA	8	3	3	Dec-Feb	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	3	January	Thursday	5
+363	UK	61	13	26	Dec-Feb	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	Europe	4	February	Sunday	2
+364	USA	3	3	8	Dec-Feb	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	1	February	Saturday	2
+365	USA	66	13	21	Mar-May	Friends	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	9	March	Friday	5
+366	Hawaii	9	7	4	Mar-May	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	2	March	Tuesday	5
+367	Hawaii	82	14	61	Mar-May	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	1	April	Wednesday	3
+368	Canada	113	48	33	Mar-May	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	4	April	Sunday	3
+369	USA	11	8	12	Mar-May	Friends	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	6	May	Sunday	3
+370	Canada	2	1	1	Mar-May	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	3	May	Tuesday	3
+371	USA	31	11	24	Jun-Aug	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	2	June	Wednesday	5
+372	Australia	32	12	22	Jun-Aug	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	Oceania	5	June	Wednesday	4
+373	USA	56	7	25	Jun-Aug	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	7	July	Sunday	3
+374	Canada	45	6	22	Jun-Aug	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	3	July	Thursday	5
+375	USA	17	4	4	Jun-Aug	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	0	August	Sunday	4
+376	USA	23	23	11	Jun-Aug	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	1	August	Sunday	5
+377	Canada	56	18	24	Sep-Nov	Friends	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	4	September	Saturday	5
+378	USA	290	263	300	Sep-Nov	Business	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	10	September	Saturday	4
+379	Australia	26	7	9	Sep-Nov	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	Oceania	0	October	Friday	4
+380	India	116	44	53	Sep-Nov	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	Asia	5	October	Saturday	4
+381	Czech Republic	14	5	15	Sep-Nov	Business	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	Europe	5	November	Thursday	4
+382	USA	13	7	1	Sep-Nov	Business	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	4	November	Sunday	5
+383	USA	20	9	25	Dec-Feb	Couples	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	8	December	Tuesday	4
+384	Mexico	3	3	3	Dec-Feb	Families	YES	YES	NO	NO	NO	YES	Hilton Grand Vacations at the Flamingo	3	315	North America	2	December	Wednesday	5
+385	USA	17	3	12	Dec-Feb	Friends	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	2	January	Monday	4
+386	Australia	21	11	13	Dec-Feb	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Oceania	4	January	Sunday	5
+387	USA	60	11	33	Dec-Feb	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	3	February	Thursday	5
+388	Canada	12	4	15	Dec-Feb	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	11	February	Monday	5
+389	USA	27	12	51	Mar-May	Friends	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	4	March	Tuesday	5
+390	USA	34	12	35	Mar-May	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	3	March	Tuesday	4
+391	Canada	69	22	38	Mar-May	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	6	April	Thursday	5
+392	USA	16	4	7	Mar-May	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	4	April	Saturday	5
+393	Australia	26	5	5	Mar-May	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Oceania	1	May	Thursday	4
+394	USA	54	10	15	Mar-May	Business	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	5	May	Tuesday	4
+395	UK	35	17	27	Jun-Aug	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Europe	6	June	Tuesday	5
+396	India	23	12	7	Jun-Aug	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Asia	7	June	Saturday	5
+397	UK	6	3	14	Jun-Aug	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Europe	3	July	Sunday	5
+398	USA	27	8	16	Jun-Aug	Friends	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	4	July	Thursday	4
+399	USA	41	8	14	Jun-Aug	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	4	August	Wednesday	3
+400	Canada	12	4	6	Jun-Aug	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	2	August	Monday	5
+401	USA	14	3	14	Sep-Nov	Friends	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	6	September	Tuesday	5
+402	USA	415	162	265	Sep-Nov	Business	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	8	September	Sunday	4
+403	Ireland	76	27	32	Sep-Nov	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Europe	6	October	Thursday	3
+404	UK	24	12	30	Sep-Nov	Couples	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Europe	4	October	Monday	4
+405	Japan	23	9	23	Sep-Nov	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	Asia	4	November	Monday	3
+406	USA	182	24	47	Sep-Nov	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	2	November	Sunday	4
+407	USA	289	28	133	Dec-Feb	Families	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	5	December	Tuesday	4
+408	Canada	101	35	46	Dec-Feb	Friends	YES	YES	YES	NO	NO	YES	Wyndham Grand Desert	3	5787	North America	5	December	Saturday	5
+409	Ireland	31	11	20	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	2	January	Friday	4
+410	USA	20	6	9	Dec-Feb	Solo	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	0	January	Wednesday	5
+411	USA	60	16	15	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	5	February	Saturday	4
+412	Mexico	1	0	2	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	0	February	Sunday	5
+413	USA	9	3	13	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	2	March	Thursday	3
+414	USA	19	7	5	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	5	March	Wednesday	5
+415	Israel	116	78	206	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Asia	9	April	Sunday	5
+416	Australia	22	13	26	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Oceania	2	April	Friday	4
+417	Australia	83	10	26	Mar-May	Families	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Oceania	1	May	Tuesday	4
+418	UK	20	3	9	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	0	May	Monday	5
+419	USA	7	5	6	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	1	June	Monday	5
+420	USA	95	34	46	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	6	June	Sunday	5
+421	Australia	15	6	19	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Oceania	4	July	Wednesday	4
+422	UK	13	7	12	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	5	July	Sunday	4
+423	Canada	19	8	24	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	10	August	Wednesday	5
+424	UK	21	6	15	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	3	August	Saturday	5
+425	UK	56	11	14	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	5	September	Friday	5
+426	UK	29	7	15	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	7	September	Thursday	5
+427	Brazil	20	0	8	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	South America	2	October	Friday	5
+428	UK	39	20	31	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	8	October	Thursday	4
+429	Switzerland	9	6	3	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Europe	5	November	Saturday	5
+430	Australia	43	38	29	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Oceania	4	November	Saturday	5
+431	Singapore	16	10	11	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	Asia	9	December	Thursday	5
+432	USA	6	6	12	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Venetian Las Vegas Hotel	5	4027	North America	10	December	Wednesday	4
+433	Australia	16	6	3	Dec-Feb	Solo	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Oceania	3	January	Saturday	4
+434	USA	15	3	13	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	5	January	Thursday	5
+435	USA	30	6	26	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	3	February	Tuesday	4
+436	USA	41	9	111	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	1	February	Friday	5
+437	India	44	35	53	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Asia	6	March	Tuesday	5
+438	USA	30	9	17	Mar-May	Business	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	0	March	Tuesday	2
+439	Ireland	23	10	18	Mar-May	Business	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	4	April	Monday	5
+440	Spain	3	0	8	Mar-May	Families	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	3	April	Tuesday	2
+441	UK	12	6	16	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	3	May	Friday	3
+442	UK	15	6	17	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	1	May	Thursday	5
+443	UK	5	0	5	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	0	June	Wednesday	5
+444	USA	32	5	11	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	6	June	Sunday	4
+445	USA	28	5	23	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	5	July	Friday	5
+446	Korea	77	18	48	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Asia	10	July	Saturday	4
+447	USA	11	8	2	Jun-Aug	Solo	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	0	August	Monday	4
+448	Scotland	102	25	37	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	6	August	Sunday	5
+449	Ireland	13	3	2	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	6	September	Tuesday	5
+450	USA	62	13	31	Sep-Nov	Business	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	2	September	Tuesday	4
+451	UK	26	22	42	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	5	October	Sunday	5
+452	UK	13	6	12	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	1	October	Saturday	4
+453	UK	26	18	43	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Europe	4	November	Monday	5
+454	Canada	17	10	39	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	North America	3	November	Saturday	5
+455	India	4	4	1	Dec-Feb	Business	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Asia	1	December	Monday	4
+456	Malaysia	20	18	19	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	Bellagio Las Vegas	5	3933	Asia	4	December	Friday	2
+457	USA	14	3	7	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	7	January	Saturday	4
+458	Canada	19	3	12	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	1	January	Wednesday	5
+459	USA	4	4	2	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	1	February	Wednesday	2
+460	USA	116	12	43	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	4	February	Tuesday	4
+461	USA	121	13	59	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	9	March	Tuesday	2
+462	USA	14	7	6	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	2	March	Friday	5
+463	USA	56	16	54	Mar-May	Business	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	9	April	Tuesday	4
+464	Canada	73	4	39	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	3	April	Monday	3
+465	USA	9	5	4	Mar-May	Friends	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	6	May	Thursday	5
+466	USA	137	42	51	Mar-May	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	5	May	Sunday	3
+467	Australia	30	12	38	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	Oceania	4	June	Saturday	5
+468	Costa Rica	130	19	49	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	6	June	Sunday	3
+469	USA	50	15	23	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	3	July	Friday	4
+470	UK	22	9	11	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	Europe	3	July	Wednesday	4
+471	Egypt	85	37	65	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	Africa	4	August	Friday	5
+472	USA	73	7	26	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	3	August	Thursday	5
+473	USA	20	10	27	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	2	September	Thursday	4
+474	Canada	13	6	13	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	2	September	Tuesday	5
+475	Canada	18	3	10	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	2	October	Monday	2
+476	USA	6	4	6	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	0	October	Saturday	5
+477	USA	48	8	25	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	6	November	Monday	4
+478	USA	24	3	5	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	0	November	Sunday	5
+479	Canada	123	26	63	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	4	December	Saturday	5
+480	USA	24	7	6	Dec-Feb	Friends	YES	YES	NO	YES	YES	YES	Paris Las Vegas	4	2916	North America	1	December	Thursday	4
+481	Canada	20	13	17	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	4	January	Monday	4
+482	USA	15	3	4	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	7	January	Tuesday	3
+483	Italy	189	72	129	Dec-Feb	Solo	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	Europe	3	February	Friday	4
+484	USA	25	19	27	Dec-Feb	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	8	February	Monday	3
+485	USA	33	11	12	Mar-May	Business	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	4	March	Wednesday	5
+486	USA	14	7	13	Mar-May	Friends	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	4	March	Thursday	5
+487	USA	38	22	47	Mar-May	Business	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	4	April	Monday	4
+488	Egypt	169	43	85	Mar-May	Solo	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	Africa	12	April	Sunday	4
+489	USA	20	17	21	Mar-May	Friends	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	4	May	Sunday	3
+490	USA	17	10	18	Mar-May	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	3	May	Tuesday	4
+491	USA	96	47	161	Jun-Aug	Solo	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	11	June	Monday	4
+492	USA	38	13	11	Jun-Aug	Business	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	5	June	Sunday	3
+493	India	12	11	9	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	Asia	6	July	Monday	4
+494	USA	9	8	1	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	6	July	Monday	5
+495	USA	23	21	22	Jun-Aug	Families	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	7	August	Wednesday	3
+496	USA	21	6	3	Jun-Aug	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	5	August	Tuesday	4
+497	USA	30	27	19	Sep-Nov	Solo	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	6	September	Friday	5
+498	USA	63	16	59	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	11	September	Wednesday	3
+499	UK	35	3	25	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	Europe	1	October	Monday	5
+500	UK	15	4	8	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	Europe	1	October	Sunday	5
+501	Canada	50	13	29	Sep-Nov	Couples	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	8	November	Thursday	4
+502	USA	154	23	31	Sep-Nov	Friends	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	4	November	Thursday	4
+503	USA	9	6	5	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	9	December	Wednesday	2
+504	USA	20	19	112	Dec-Feb	Families	YES	YES	NO	YES	YES	YES	The Westin las Vegas Hotel Casino & Spa	4	826	North America	5	December	Tuesday	4
