@@ -28,3 +28,4 @@
 | shuttle | 58000 | 10 | UCI|
 | tictactoe | 957 | 10 | UCI|
 | connect-4 | 67557 | 43 | UCI|
+| Glioma | 839 | 23 | UCI |
